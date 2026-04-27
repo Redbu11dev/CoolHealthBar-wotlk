@@ -1,6 +1,6 @@
 https://github.com/Redbu11dev/CoolHealthBar but updated for 3.3.5 (works with epoch)
 
-Rename folder to CoolHealthBar
+Rename folder to "CoolHealthBar"
 
 # CoolHealthBar
 
